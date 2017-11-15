@@ -1,0 +1,13 @@
+NAME : self_benchmark_1.tsp
+TYPE : TSP
+DIMENSION : 8
+EDGE_WEIGHT_TYPE : ATT
+NODE_COORD_SECTION
+1 4 5
+2 4 8
+3 4 10
+4 4 4
+5 4 2
+6 4 11
+7 4 1
+8 4 3
