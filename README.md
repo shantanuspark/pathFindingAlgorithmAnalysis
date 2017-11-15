@@ -1,4 +1,4 @@
-# pathFindingAlgorithmAnalysis
+# TSP Algorithm Analysis
 Analyzed performance of A*, Genetic and Greedy algorithms on travelling salesman problem on the DIMACS dataset
 
 Traveling Salesman problem, defined in the 1800s by the Mathematicians W.R.Hamilton and Thomas Kirkman, is a classic algorithmic problem
