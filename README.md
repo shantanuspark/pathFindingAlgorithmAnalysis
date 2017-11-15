@@ -24,15 +24,15 @@ The utilities file has common functionalities like calculating distance matrix, 
 Data folder has all the input files containing list of cities along with their coordinates. These files belong to the DIMACS dataset.
 
 Below is the graph depicting time taken for each of the algorithms to execute:
-<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/GreedyVsGenetic.jpg" />
+<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/output/GreedyVsGenetic.jpg" />
 
 Below graph depicts the tour lengths of greedy vs genetic algorithm. 
-<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/GreedyVsGeneticTourLength.jpg" />
+<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/output/GreedyVsGeneticTourLength.jpg" />
 If the genetic algorithm was kept to run longer the tour lengths could have improved substantially.
 
 Below image shows the tour lengths of a*, greedy and genetic algorithm on smaller self curated data sets.
-<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/analysisOnSelfGeneratedData.jpg" />
+<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/output/analysisOnSelfGeneratedData.jpg" />
 Since the hurestic function used for a* is  O((n^2) * log(n)), it takes very long to run on big datasets.
 
 Finally, below are the results of execution for each of the data file:
-<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/result.JPG" />
+<img src="https://github.com/shantanuspark/pathFindingAlgorithmAnalysis/blob/master/output/result.JPG" />
